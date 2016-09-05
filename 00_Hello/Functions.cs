@@ -4,11 +4,11 @@
     {
         public static string Hello()
         {
-            return "Hello";
+            return "hello";
         }
         public static string Hello(string v)
         {
-            return "Hello";
+            return "hello, Fred";
         }
     }
 }
